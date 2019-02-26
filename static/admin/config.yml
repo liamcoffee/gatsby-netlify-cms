@@ -59,7 +59,7 @@ collections:
           widget: "object",
           fields:
             [
-              { label: "Name", name: "name", widget: "string" },
+              { label: "Name", name: "Locname", widget: "string" },
               { label: "Google Maps Link", name: "mapsLink", widget: "string" },
               { label: "Latitude", name: "mapsLatitude", widget: "number", valueType: "float" },
               { label: "Longitude", name: "mapsLongitude", widget: "number", valueType: "float" },
