@@ -55,7 +55,7 @@ collections:
       - {
           label: "Location",
           name: "location",
-          required: true,
+        
           widget: "object",
           fields:
             [
